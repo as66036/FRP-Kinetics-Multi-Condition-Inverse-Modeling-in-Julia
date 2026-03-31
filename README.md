@@ -86,7 +86,3 @@ include("run.jl")
 
 ---
 
-## 📝 Author
-
-Abdullah Al Sayeed  
-Georgia Southern University
